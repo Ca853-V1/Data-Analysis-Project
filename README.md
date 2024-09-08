@@ -1,7 +1,7 @@
 # Introduction to Data Analytics -
 
 ## Objective:
-This project provides a beginner’s guide to data analysis using Python, emphasizing practical applications like dataset cleaning and text analysis. It aims to derive meaningful insights and facilitate data exploration in a user-friendly format.
+- This project provides a beginner’s guide to data analysis using Python, emphasizing practical applications like dataset cleaning and text analysis. It aims to derive meaningful insights and facilitate data exploration in a user-friendly format.
 
 ## Structure:
 
@@ -13,8 +13,8 @@ This project provides a beginner’s guide to data analysis using Python, emphas
 
 ## Usage Instructions:
 
-To run this project, clone the repository and open the Jupyter Notebook in your local environment. Make sure that necessary libraries such as NumPy, Pandas, and Requests (used for data analysis and handling) are installed.
+- To run this project, clone the repository and open the Jupyter Notebook in your local environment. Make sure that necessary libraries such as NumPy, Pandas, and Requests (used for data analysis and handling) are installed.
 
 ## Future scope of work:
 
-This project could be expanded by incorporating advanced machine learning techniques for predictive analytics and visualizing the dataset with attractive graphical representations.
+- This project could be expanded by incorporating advanced machine learning techniques for predictive analytics and visualizing the dataset with attractive graphical representations.
